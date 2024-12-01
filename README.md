@@ -40,4 +40,3 @@ Congratulations! You've guessed the correct number.
 Number of guesses: 3
 Do you want to play again (yes/no)? no
 Thank you for playing!
-
