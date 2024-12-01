@@ -27,8 +27,8 @@ REQUIREMENTS:
 EXAMPLE:
 Suppose the user selects the range A = 10 and B = 20.
 The system randomly selects a number, say 14.
-The user might guess:
 
+The user might guess:
 First guess: 8 → "Your guess is too low. Try again."
 Second guess: 17 → "Your guess is too high. Try again."
 Third guess: 14 → "Congratulations! You've guessed the correct number in 3 guesses."
