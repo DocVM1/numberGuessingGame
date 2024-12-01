@@ -61,7 +61,7 @@ def get_range() -> tuple:
     return lower, upper
 
 def generate_random(lower, upper):
-    return random.randrange(lower, upper + 1)
+    return random.randint(lower, upper)
 
 if __name__ == "__main__":
     main()
