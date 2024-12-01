@@ -1,14 +1,14 @@
-#Number Guessing Game 🎯
+# Number Guessing Game 🎯
 
 A python based game where users guess a number which lies in the range which they enter.
 
-##Features 🛠️
+## Features 🛠️
 - User-defined number range
 - Feedback for each guess (high/low)
 - Tracks number of guesses
 - Option to play multiple rounds
 
-##How to Play 🚀
+## How to Play 🚀
 1. Clone this repository in your system:
    ```bash
    git clone https://github.com/yourusername/NumberGuessingGame.git
@@ -22,11 +22,11 @@ A python based game where users guess a number which lies in the range which the
   - Keep guessing until you get the right answer!
 4. After the game ends, choose whether to play again.
 
-##Requirements 📝
+## Requirements 📝
 - Python 3.7 or higher
 - No additional libraries needed (it uses Python's `random` module)
 
-##Example Gameplay 🎮
+## Example Gameplay 🎮
 ```
 Lower limit: 1
 Upper limit: 100
